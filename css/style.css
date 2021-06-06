@@ -1,0 +1,36 @@
+
+
+li{
+  color:blue;
+}
+
+HTML CSSResult Skip Results Iframe
+EDIT ON
+* {
+  line-height: 1;
+}
+
+.number__child {
+  padding-left: 40px;
+}
+
+.number__parent:nth-of-type(3n){
+  color:red;
+}
+
+.number__child:nth-child(n +2){
+  color:blue;
+}
+
+p{
+  font-family： 'Gorditas'、筆記体;
+  font-size:60px;
+}
+
+h2{font-family: 'Noto Serif JP', serif;}
+h2{text-align:center ;}
+body{background-img: url("../img/red.jpg");
+background-size: 300px 100px;
+background-repeat: no-repeat;
+background-position: center;
+}
